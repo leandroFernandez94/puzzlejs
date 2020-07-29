@@ -1,0 +1,260 @@
+#App {
+  margin-top: 20px;
+  text-align: center;
+}
+
+#App > div {
+  background-color: #868686;
+  position: relative;
+  margin: 0px auto;
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+  padding: 2px;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.gameWrapper > div div:nth-child(1)::after {
+  position: absolute;
+  content: "1";
+  padding: 3px;
+  color: green;
+  right: 0;
+  bottom: 0;
+  background: white;
+}
+
+.gameWrapper > div div:nth-child(2)::after {
+  position: absolute;
+  content: "2";
+  padding: 3px;
+  color: green;
+  right: 0;
+  bottom: 0;
+  background: white;
+}
+
+.gameWrapper > div div:nth-child(3)::after {
+  position: absolute;
+  content: "3";
+  padding: 3px;
+  color: green;
+  right: 0;
+  bottom: 0;
+  background: white;
+}
+
+.gameWrapper > div div:nth-child(4)::after {
+  position: absolute;
+  content: "4";
+  padding: 3px;
+  color: green;
+  right: 0;
+  bottom: 0;
+  background: white;
+}
+
+.gameWrapper > div div:nth-child(5)::after {
+  position: absolute;
+  content: "5";
+  padding: 3px;
+  color: green;
+  right: 0;
+  bottom: 0;
+  background: white;
+}
+
+.gameWrapper > div div:nth-child(6)::after {
+  position: absolute;
+  content: "6";
+  padding: 3px;
+  color: green;
+  right: 0;
+  bottom: 0;
+  background: white;
+}
+
+.gameWrapper > div div:nth-child(7)::after {
+  position: absolute;
+  content: "7";
+  padding: 3px;
+  color: green;
+  right: 0;
+  bottom: 0;
+  background: white;
+}
+
+.gameWrapper > div div:nth-child(8)::after {
+  position: absolute;
+  content: "8";
+  padding: 3px;
+  color: green;
+  right: 0;
+  bottom: 0;
+  background: white;
+}
+
+.gameWrapper > div div:nth-child(9)::after {
+  position: absolute;
+  content: "9";
+  padding: 3px;
+  color: green;
+  right: 0;
+  bottom: 0;
+  background: white;
+}
+
+.gameWrapper > div div:nth-child(10)::after {
+  position: absolute;
+  content: "10";
+  padding: 3px;
+  color: green;
+  right: 0;
+  bottom: 0;
+  background: white;
+}
+
+.gameWrapper > div div:nth-child(11)::after {
+  position: absolute;
+  content: "11";
+  padding: 3px;
+  color: green;
+  right: 0;
+  bottom: 0;
+  background: white;
+}
+
+.gameWrapper > div div:nth-child(12)::after {
+  position: absolute;
+  content: "12";
+  padding: 3px;
+  color: green;
+  right: 0;
+  bottom: 0;
+  background: white;
+}
+
+.gameWrapper > div div:nth-child(13)::after {
+  position: absolute;
+  content: "13";
+  padding: 3px;
+  color: green;
+  right: 0;
+  bottom: 0;
+  background: white;
+}
+
+.gameWrapper > div div:nth-child(14)::after {
+  position: absolute;
+  content: "14";
+  padding: 3px;
+  color: green;
+  right: 0;
+  bottom: 0;
+  background: white;
+}
+
+.gameWrapper > div div:nth-child(15)::after {
+  position: absolute;
+  content: "15";
+  padding: 3px;
+  color: green;
+  right: 0;
+  bottom: 0;
+  background: white;
+}
+
+.gameWrapper > div div:nth-child(16)::after {
+  position: absolute;
+  content: "16";
+  padding: 3px;
+  color: green;
+  right: 0;
+  bottom: 0;
+  background: white;
+}
+
+.gameWrapper > div div:nth-child(17)::after {
+  position: absolute;
+  content: "17";
+  padding: 3px;
+  color: green;
+  right: 0;
+  bottom: 0;
+  background: white;
+}
+
+.gameWrapper > div div:nth-child(18)::after {
+  position: absolute;
+  content: "18";
+  padding: 3px;
+  color: green;
+  right: 0;
+  bottom: 0;
+  background: white;
+}
+
+.gameWrapper > div div:nth-child(19)::after {
+  position: absolute;
+  content: "19";
+  padding: 3px;
+  color: green;
+  right: 0;
+  bottom: 0;
+  background: white;
+}
+
+.gameWrapper > div div:nth-child(20)::after {
+  position: absolute;
+  content: "20";
+  padding: 3px;
+  color: green;
+  right: 0;
+  bottom: 0;
+  background: white;
+}
+
+.gameWrapper > div div:nth-child(21)::after {
+  position: absolute;
+  content: "21";
+  padding: 3px;
+  color: green;
+  right: 0;
+  bottom: 0;
+  background: white;
+}
+
+.gameWrapper > div div:nth-child(22)::after {
+  position: absolute;
+  content: "22";
+  padding: 3px;
+  color: green;
+  right: 0;
+  bottom: 0;
+  background: white;
+}
+
+.gameWrapper > div div:nth-child(23)::after {
+  position: absolute;
+  content: "23";
+  padding: 3px;
+  color: green;
+  right: 0;
+  bottom: 0;
+  background: white;
+}
+
+.gameWrapper > div div:nth-child(24)::after {
+  position: absolute;
+  content: "24";
+  padding: 3px;
+  color: green;
+  right: 0;
+  bottom: 0;
+  background: white;
+}
